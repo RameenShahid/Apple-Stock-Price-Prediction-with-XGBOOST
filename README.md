@@ -1,6 +1,6 @@
 # 🚀 **Apple Stock Price Prediction Using Machine Learning & AI**  
 
-![Stock Prediction]([https://miro.medium.com/max/1400/1*eP8_pjPYWPDzvFNZtBKOkA.png](https://github.com/RameenShahid/Apple-Stock-Price-Prediction-with-XGBOOST/blob/d17d2c835e1869eb4a27a03e2b395f346e567627/images/apple/Screenshot%20(430).png))  
+![Visualization](https://github.com/RameenShahid/Apple-Stock-Price-Prediction-with-XGBOOST/blob/80a9f496f249de51ca5cdd6af143b66093a16417/images/apple/Screenshot%20(430).png)
 
 ## 📌 **Overview**  
 This project leverages **Machine Learning and Neural Networks (FNN, RNN, LSTM)** to predict future prices based on historical data. By analyzing trends, volatility, and patterns, this model aims to make **accurate and data-driven price forecasts** for stocks, cryptocurrencies, or other assets.  
