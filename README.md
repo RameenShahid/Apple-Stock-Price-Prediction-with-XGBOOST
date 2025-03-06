@@ -1,6 +1,6 @@
 # 🚀 **Apple Stock Price Prediction Using Machine Learning & AI**  
 
-![Stock Prediction](https://miro.medium.com/max/1400/1*eP8_pjPYWPDzvFNZtBKOkA.png)  
+![Stock Prediction]([https://miro.medium.com/max/1400/1*eP8_pjPYWPDzvFNZtBKOkA.png](https://github.com/RameenShahid/Apple-Stock-Price-Prediction-with-XGBOOST/blob/d17d2c835e1869eb4a27a03e2b395f346e567627/images/apple/Screenshot%20(430).png))  
 
 ## 📌 **Overview**  
 This project leverages **Machine Learning and Neural Networks (FNN, RNN, LSTM)** to predict future prices based on historical data. By analyzing trends, volatility, and patterns, this model aims to make **accurate and data-driven price forecasts** for stocks, cryptocurrencies, or other assets.  
@@ -41,13 +41,33 @@ This project leverages **Machine Learning and Neural Networks (FNN, RNN, LSTM)**
 
 ---
 
-## 🎨 **Visualizations**  
+Here’s your **Visualization** section with images placed side by side for better presentation:  
 
-📌 **📈 Actual vs Predicted Prices**  
-![Actual vs Predicted](https://www.researchgate.net/publication/341818981/figure/fig3/AS:895160689008640@1591220796067/Prediction-and-actual-stock-prices-when-training-size-90-days-and-the-time-frame-was.ppm)  
+---
 
-📌 **📊 Model Performance Comparison**  
-![Model Comparison](https://www.mdpi.com/econometrics/econometrics-08-00041/article_deploy/html/images/econometrics-08-00041-g002.png)  
+## 📷 **Visualization**  
+
+### 🔹 **Actual vs. Predicted Prices**  
+
+<p align="center">
+  <img src="https://github.com/RameenShahid/Apple-Stock-Price-Prediction-with-XGBOOST/blob/52f23f8cfee2b225ba3c32535347d60c10b1d501/images/apple/Screenshot%20(341).png" width="45%">
+  <img src="https://github.com/RameenShahid/Apple-Stock-Price-Prediction-with-XGBOOST/blob/52f23f8cfee2b225ba3c32535347d60c10b1d501/images/apple/Screenshot%20(422).png" width="45%">
+</p>
+
+### 🔹 **Performance Metrics & Evaluation**  
+
+<p align="center">
+  <img src="https://github.com/RameenShahid/Apple-Stock-Price-Prediction-with-XGBOOST/blob/52f23f8cfee2b225ba3c32535347d60c10b1d501/images/apple/Screenshot%20(424).png" width="30%">
+  <img src="https://github.com/RameenShahid/Apple-Stock-Price-Prediction-with-XGBOOST/blob/52f23f8cfee2b225ba3c32535347d60c10b1d501/images/apple/Screenshot%20(425).png" width="30%">
+  <img src="https://github.com/RameenShahid/Apple-Stock-Price-Prediction-with-XGBOOST/blob/52f23f8cfee2b225ba3c32535347d60c10b1d501/images/apple/Screenshot%20(426).png" width="30%">
+</p>
+
+### 🔹 **Loss Function Comparison**  
+
+<p align="center">
+  <img src="https://github.com/RameenShahid/Apple-Stock-Price-Prediction-with-XGBOOST/blob/52f23f8cfee2b225ba3c32535347d60c10b1d501/images/apple/Screenshot%20(427).png" width="45%">
+  <img src="https://github.com/RameenShahid/Apple-Stock-Price-Prediction-with-XGBOOST/blob/52f23f8cfee2b225ba3c32535347d60c10b1d501/images/apple/Screenshot%20(428).png" width="45%">
+</p>
 
 ---
 
